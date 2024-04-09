@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 29,
+    "supported_formats": {
+      "min_inclusive": 29,
+      "max_inclusive": 100000000000000000000
+    },
+    "description": {
+      "text": "Makes mace a 3d. By HiScythe"
+    }
+  }
+}
